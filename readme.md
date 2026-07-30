@@ -1,4 +1,5 @@
 Developed by Adarsh Kumar
+
 About DocBridge
 DocBridge is a one-stop appointment system designed to simplify the process of booking doctor appointments. Whether you’re booking for yourself or your loved ones in a different city, DocBridge allows users to find and schedule doctor appointments with ease. The system ensures minimal clicks, saving time while providing comprehensive details like doctor fees, years of experience, and location.
 
@@ -34,7 +35,7 @@ Tech Stack
 To Run the project
 
 Install server dependencies - npm install
-In Frontend - npm run dev 
+In Frontend - npm run dev
 In Backend - node index.js
 <img width="1253" height="920" alt="image" src="https://github.com/user-attachments/assets/41983642-dae0-4b4b-986f-1242dcc63d4b" />
 <img width="1268" height="912" alt="image" src="https://github.com/user-attachments/assets/65341366-025f-42f4-aa51-707f6450c20e" />

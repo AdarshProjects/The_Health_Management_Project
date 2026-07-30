@@ -1,25 +1,41 @@
-The Patient Appointment System 
+Developed by Adarsh Kumar
+About DocBridge
+DocBridge is a one-stop appointment system designed to simplify the process of booking doctor appointments. Whether you’re booking for yourself or your loved ones in a different city, DocBridge allows users to find and schedule doctor appointments with ease. The system ensures minimal clicks, saving time while providing comprehensive details like doctor fees, years of experience, and location.
 
-=>First simply the login and the Signup page for the users and 
-the doctors(in this we are gonna use jwt for the authentication)
+Features
 
-=>{Creating the doctors profile} in which the client can use to 
-this to see the specialization.
+Patient Interface
 
-=>Just have to create the calender type Scheduling system in 
-which a doctor can set the schedule and also patient can give 
-the time regarding to it.
+•Simple Registration/Login: Patients can create an account or log in using their credentials.
 
-=>In {Doctors dashboard} he has a ability to see the upcoming 
-meeting of the patients that he permits, and also there is 
-keep track of handle bills and also have to take a track of 
-patient health record.
+•Search Functionality: Patients can :-
 
-=>{Patient dashboard}Patients can access their health history,
-view scheduled appointments, and track billing in one place.
-The dashboard provides transparency and easy access to past 
-medical interaction and financial records.
+      •	Select a state, district, and the required doctor’s specialty.
+      •	Provide a brief description of their condition.
+   
+•Doctor Listings: Patients can view available doctors with detailed information:
+•Doctor fees
+•Years of experience
+•Clinic/hospital location
+•Appointment Scheduling: Patients can choose a convenient date and time slot.
+•Appointment History: Patients can view all previously booked appointments under the “Appointments” section.
+Doctor Interface
 
-=>Cloud Based Storage(???????????????????)
+•	Simple Registration/Login: Doctors can register or log in using their credentials.
+•	Appointment Management:
+•	View all incoming appointment requests.
+•	Accept or reject appointments with a single click.
+•	Real-time updates: Patients are instantly notified of the doctor’s decision.
+Tech Stack
 
-=>IN last the feedback system.......................
+•	Frontend: React.js
+•	Backend: Node.js, Express.js
+•	Database: MongoDB
+To Run the project
+
+Install server dependencies - npm install
+In Frontend - npm run dev 
+In Backend - node index.js
+<img width="1253" height="920" alt="image" src="https://github.com/user-attachments/assets/41983642-dae0-4b4b-986f-1242dcc63d4b" />
+<img width="1268" height="912" alt="image" src="https://github.com/user-attachments/assets/65341366-025f-42f4-aa51-707f6450c20e" />
+
